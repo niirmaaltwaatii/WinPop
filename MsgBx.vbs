@@ -1,3 +1,6 @@
 Set objArgs = WScript.Arguments
-msgTxt = objArgs(0)
-MsgBox msgTxt
+msgTtl = objArgs(0)
+msgTxt = objArgs(1)
+msgTyp = objArgs(2)
+n=msgbox(msgTtl,msgTyp,msgTxt)
+
