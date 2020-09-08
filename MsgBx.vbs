@@ -1,3 +1,4 @@
+'GitHub : https://www.github.com/niirmaaltwaatii/WinPop
 Set objArgs = WScript.Arguments
 msgTtl = objArgs(0)
 msgTxt = objArgs(1)
