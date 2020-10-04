@@ -1,8 +1,8 @@
 # WinPop
-Windows Program to show Custombizable PopUp Messages
+Windows Program to show Customizable PopUp Messages
 
 ---
-# SetUp
+# Installation & SetUp
 _Install Git for Windows_ <br/>
 **Open CMD & use following commands :-** <br/>
 
@@ -17,7 +17,7 @@ $ cd WinPop
 <br/>
 
 ```
-$ WinPop.bat OR WinPop.exe
+$ WinPop.bat OR WinPop32.exe | WinPop64.exe
 ```
 <br/>
 OR <br/>
@@ -25,5 +25,4 @@ Download the Compressed File & Extract Then Run the Batch file Or exe file <br/>
 
 ---
 ## Errors
-_Sometimes there's an RunTime Error_ <br/>
-_**This Error can be solved by putting quotes on Title & Message**_
+Runtime error from WinPop 1.3 is solved in WinPop 1.4
