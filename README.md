@@ -1,5 +1,5 @@
 # WinPop
-Windows Program to show Customizable PopUp Messages
+Windows Program to show Customizable PopUp Window Messages
 
 ---
 # Installation & SetUp
